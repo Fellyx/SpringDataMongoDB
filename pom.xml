@@ -14,7 +14,7 @@
 	<name>springdatamongodb</name>
 	<description>Project using spring data mongo db</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
